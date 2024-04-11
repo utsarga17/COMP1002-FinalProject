@@ -1,0 +1,139 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: whitesmoke;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .product-image {
+    flex: 1;
+    margin-right: 20px;
+  }
+  
+  
+  .product-image img {
+    max-width: 90%;
+    margin-left: 26px;
+    margin-top: 80px;
+    height: 500px;
+    border: 2px solid black;
+    border-radius: 10px;
+  }
+  
+  .product-details {
+    flex: 1;
+  }
+  
+  .product-details h1 {
+    font-size: 28px;
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  .price {
+    font-size: 25px;
+    color: #007bff;
+    margin-bottom: 15px;
+  }
+  
+  .description {
+    font-size: 20px;
+    line-height: 1.6;
+    color: #555;
+  }
+  
+  .buy-button {
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: rgb(27, 123, 123);
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .buy-button:hover {
+    background-color: #094654;
+  }
+/* .col{
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  flex-wrap: wrap;
+} */
+
+
+
+/* html, body{
+  height: 100%;
+  width: 100%;
+  font-family: 'Poppins', sans-serif;
+  color:#222;
+} */
+.h1{
+  text-align: start;
+  font-family: 'Pacifico', sans-serif;
+  /* margin-left: 150px; */
+}
+h2{
+  color: green;
+  margin-left: 450px;
+}
+.container-fluid{
+  background-color: rgb(77, 219, 101);
+  height: 100px;
+}
+.bg-light {
+  background-color: rgb(77, 219, 101);
+}
+.navbar{
+  padding: .8rem;
+  /* height: 100px; */
+}
+.navbar-brand img{
+  width: 95px;
+  height: 85px;
+}
+.navbar-nav li{
+  padding-right: 100px;
+  
+}
+
+.nav-link{
+  font-size: 1.1em !important;
+  
+}
+.padding {
+  padding-bottom: 2rem;
+}
+
+.container-fluid2{
+  background-color: rgb(77, 219, 101);
+  padding-top: 30px;
+}
+
+.lll{
+  color: rgb(211, 199, 199);
+}
+
+.aa{
+  margin-top: -38px;
+  margin-bottom: 30px;
+  margin-left: 50px;
+}
+
+.abc{
+  color: black;
+}
+
+footer p{
+  color: black;
+}

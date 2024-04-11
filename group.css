@@ -1,0 +1,87 @@
+html, body{
+    height: 100%;
+    width: 100%;
+    font-family: 'Poppins', sans-serif;
+    color:#222;
+  }
+  .h1{
+    text-align: start;
+    font-family: 'Pacifico', sans-serif;
+    /* margin-left: 150px; */
+  }
+  h2{
+    color: green;
+    margin-left: 450px;
+  }
+  .container-fluid{
+    background-color: rgb(77, 219, 101);
+  }
+  .bg-light {
+    background-color: rgb(77, 219, 101);
+  }
+  .navbar{
+    padding: .8rem;
+  }
+  .navbar-brand img{
+    width: 100px;
+    height: 100px;
+  }
+  .navbar-nav li{
+    padding-right: 20px;
+    
+  }
+
+  .nav-link{
+    font-size: 1.1em !important;
+    
+  }
+  .padding {
+    padding-bottom: 2rem;
+  } 
+  .welcome {
+    width: 75%;
+    margin: 0 auto;
+  }
+.img-fluid{
+    width: 400px;
+}
+.img-fluid2{
+    width: 500px;
+    height: 300px;
+}
+
+.img-fluid3{
+    width: 66%;
+    height: 500px;
+    margin-left: 250px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
+.footer a {
+    color: #fffefe;
+  }
+
+.container-fluid2{
+    background-color: rgb(77, 219, 101);
+    padding-top: 30px;
+  }
+
+  .lll{
+    color: rgb(211, 199, 199);
+  }
+
+  .aa{
+    margin-top: -38px;
+    margin-bottom: 30px;
+    margin-left: 50px;
+  }
+
+  .abc{
+    color: black;
+  }
+
+  footer p{
+    color: black;
+  }
