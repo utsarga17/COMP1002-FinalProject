@@ -1,0 +1,140 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: rgb(77, 219, 101);
+    color: #0d0202;
+    padding: 20px;
+    height: 40px;
+    margin: 10px;
+  }
+  
+  header h1 {
+    margin-left: 35px;
+    position: relative;
+    bottom: 18px;
+
+  }
+  
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 5px;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .container {
+    max-width: 900px;
+    margin: 20px auto;
+    padding: 0 20px;
+  }
+  
+  .about-section,
+  .team-section {
+    margin-bottom: 40px;
+  }
+  
+  .about-section h2,
+  .team-section h2 {
+    font-size: 24px;
+  }
+  
+  .team-member {
+    text-align: center;
+  }
+  
+  .team-member img {
+    width: 500px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+  }
+  
+  footer {
+    position: absolute;
+    width: 100%;
+    bottom: -10%;
+    background-color: rgb(77, 219, 101);
+    color: #090101;
+    text-align: center;
+    padding: 10px;
+    height: 50px;
+  }
+  
+  p{
+    font-size: 20px;
+  }
+
+
+
+
+
+  /* .container-fluid{
+    /* background-color: rgb(77, 219, 101); */
+
+  
+  .bg-light {
+    background-color: rgb(77, 219, 101);
+  }
+  .navbar{
+    padding: .8rem;
+    /* color: #090101; */
+    /* height: 100px; */
+  }
+  .navbar-brand img{
+    width: 95px;
+    height: 85px;
+  }
+  .navbar-nav li{
+    padding-right: 30px;
+    position: relative;
+    left: 1100px;
+    bottom: 65px;
+    
+    
+  }
+
+  nav ul li a{
+    color: #090101;
+  }
+  
+  .nav-link{
+    font-size: 1.1em !important;
+    
+  }
+  .padding {
+    padding-bottom: 2rem;
+  }
+  
+  .container-fluid2{
+    background-color: rgb(77, 219, 101);
+    padding-top: 30px;
+  }
+  
+  .lll{
+    color: rgb(211, 199, 199);
+  }
+  
+  .aa{
+    margin-top: -38px;
+    margin-bottom: 30px;
+    margin-left: 50px;
+  }
+  
+  .abc{
+    color: black;
+  }
+  
+  footer p{
+    color: black;
+  }
