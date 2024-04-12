@@ -39,7 +39,7 @@ form textarea {
     resize: none;
 }
 
-input[type="submit"] {
+form input[type="submit"] {
     background-color: rgb(26, 109, 109);
     color: #fff;
     padding: 10px 20px;
@@ -48,6 +48,6 @@ input[type="submit"] {
     cursor: pointer;
 }
 
- input[type="submit"]:hover {
+ form input[type="submit"]:hover {
     background-color: #094654;
 }
